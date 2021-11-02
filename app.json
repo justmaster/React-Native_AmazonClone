@@ -2,12 +2,14 @@
   "expo": {
     "name": "AmazonClone",
     "slug": "AmazonClone",
-    "version": "1.0.0",
+    "privacy": "public",
+    "description": "Amazon App Clone made on React Native and AWS Amplify",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
